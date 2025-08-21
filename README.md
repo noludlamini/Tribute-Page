@@ -32,7 +32,7 @@ tribute-page/
 │── index.html       # Main page
 │── style.css        # Stylesheet
 │── README.md        # Project documentation
-│── screenshot.png   # Project preview (to be added)
+│── screenshot.png   # Project preview
 ```
 ---
 
