@@ -10,7 +10,7 @@ This project showcases my ability to create structured, accessible, and visually
 ---
 
 ## 🌍 Live Demo  
-🔗 [View Tribute Page](https://noludlamini.github.io/tribute-page/)  
+🔗 [View Tribute Page](https://noludlamini.github.io/Tribute-Page/)  
 
 ---
 
